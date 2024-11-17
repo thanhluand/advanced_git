@@ -1,2 +1,2 @@
 # advanced_git
-Add line 1
+line 1
